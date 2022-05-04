@@ -1,0 +1,3 @@
+id,pred_class,desired_class,success,vis_path,structure_sp,feature_sp,pred_score
+844,0,0,True,results/target_attack/cora/added_node_20/train_percent_0.75/desired_class_0/target_attack_844_0.19483967935871743_feature_sparsity_0.4315771109560363_dataset.pkl,0.19483967935871743,0.4315771109560363,"tensor([-0.3883, -4.1927, -8.3830, -1.4865, -6.0010, -4.0933, -2.1778])"
+844,0,0,True,results/target_attack/cora/added_node_20/train_percent_0.75/desired_class_0/target_attack_844_0.19483967935871743_feature_sparsity_0.4315771109560363_dataset.pkl,0.1948396793587174,0.4315771109560363,"tensor([-0.3883, -4.1927, -8.3830, -1.4865, -6.0010, -4.0933, -2.1778])"

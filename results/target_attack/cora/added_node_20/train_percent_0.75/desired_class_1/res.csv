@@ -1,0 +1,2 @@
+id,pred_class,desired_class,success,vis_path,structure_sp,feature_sp,pred_score
+844,6,1,False,,0.16576152304609218,0.4315771109560363,"tensor([-8.0450, -3.7999, -8.5501, -2.3666, -1.3074, -4.6277,  2.4101])"

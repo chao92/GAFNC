@@ -1,0 +1,2 @@
+id,pred_class,desired_class,success,vis_path,structure_sp,feature_sp,pred_score
+844,2,2,True,results/target_attack/cora/added_node_20/train_percent_0.75/desired_class_2/target_attack_844_0.19509018036072145_feature_sparsity_0.4969993021632938_dataset.pkl,0.19509018036072145,0.4969993021632938,"tensor([-8.5503, -6.8511,  5.5283, -7.0804, -5.4448, -2.2839,  1.7038])"
